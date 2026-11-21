@@ -1,0 +1,2 @@
+# GoldBot
+GoldBot Trading System
